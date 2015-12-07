@@ -14,7 +14,7 @@ A collection of basic Android exercises
 10. **MyMusic App** - Service (https://github.com/DeLaSalleUniversity-Manila/mymusicapp-luislerit.git)
 11. **Splash Activity** (https://github.com/DeLaSalleUniversity-Manila/splashactivitydemo-luislerit.git)
 12. **Menu Activity** (https://github.com/DeLaSalleUniversity-Manila/menuactivitydemo-luislerit.git)
-13. **Help Activity**
+13. **Help Activity** (https://github.com/DeLaSalleUniversity-Manila/helpactivitydemo-luislerit.git)
 14. **Green Target** (https://github.com/DeLaSalleUniversity-Manila/greentarget-luislerit.git)
 15. **Take a Picture**(https://github.com/DeLaSalleUniversity-Manila/takeapicture-luislerit.git)
 16. **Buttons Demo**

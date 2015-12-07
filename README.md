@@ -2,23 +2,44 @@
 
 A collection of basic Android exercises
 
-1.(space)**Hello World App Demo** (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-luislerit.git)
-2.(space)**Prime Number Game** (https://github.com/DeLaSalleUniversity-Manila/primenumbergame-luislerit.git)
-3.(space)**Activity Lifecycle** Introduction(https://github.com/DeLaSalleUniversity-Manila/activitylifecycleintroduction-luislerit.git)
-4.(space)**Display Webpage** (https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-luislerit.git)
-5.(space)**Linking Android Activities**
-6.(space)**WeekDay App using Date Picker Fragment**
-7.(space)**Stopwatch App** (https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-luislerit.git)
-8.(space)**Email App** - Grid Layout (https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-luislerit.git)
-9.(space)**Text-to-Speech App**
-10.(space)**MyMusic App** - Service (https://github.com/DeLaSalleUniversity-Manila/mymusicapp-luislerit.git)
-11.(space)**Splash Activity**
-12.(space)**Menu Activity**
-13.(space)**Help Activity**
-14.**Green Target **
-15.**Take a Picture**
-16.**Buttons Demo**
-17.**Star Rating**
-18.**Google Map Marker for DLSU**
-19.**Screen Slides**
-20.**ViewPager with Text-to-Speech Demo**
+1. **Hello World App Demo** (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-luislerit.git)
+2. **Prime Number Game** (https://github.com/DeLaSalleUniversity-Manila/primenumbergame-luislerit.git)
+3. **Activity Lifecycle** Introduction(https://github.com/DeLaSalleUniversity-Manila/activitylifecycleintroduction-luislerit.git)
+4. **Display Webpage** (https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-luislerit.git)
+5. **Linking Android Activities**
+6. **WeekDay App using Date Picker Fragment**
+7. **Stopwatch App** (https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-luislerit.git)
+8. **Email App** - Grid Layout (https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-luislerit.git)
+9. **Text-to-Speech App**
+10. **MyMusic App** - Service (https://github.com/DeLaSalleUniversity-Manila/mymusicapp-luislerit.git)
+11. **Splash Activity**
+12. **Menu Activity**
+13. **Help Activity**
+14. **Green Target **
+15. **Take a Picture**
+16. **Buttons Demo**
+17. **Star Rating**
+18. **Google Map Marker for DLSU**
+19. **Screen Slides**
+20. **ViewPager with Text-to-Speech Demo**
+21. **Play Video**
+22. **SQLiteDatabase**
+23. **Mini-database with Text file** 
+24. **Settings Activity**
+25. **WorkoutFragmentDemo**
+26. **Grocery App**
+27. **Breast Cancer Awareness App**
+28. **OpenCV 3.0 Camera Preview Example**
+29. **OpenCV 3.0 15-Tile Camera Puzzle **
+30. **Image Local Binary Pattern**
+31. **OpenCV 3.0 Mixed-Signal Processing**
+32. **OpenCV 3.0 Face Detection Sample**
+33. **OpenCV 3.0 Image Manipulations**
+34. **Get Current Location and Place a Marker**
+35. **Get Neighboring Hospitals**
+36. **OpenCV 3.0 Color Blob Detection Sample**
+37. **Android Native Camera Access with Native OpenCV Processing through JNI**
+38. **Android Camera Bitmap Access through JNI**
+39. **Cat Face Detection**
+40. **QR and Bar Code Reader**
+

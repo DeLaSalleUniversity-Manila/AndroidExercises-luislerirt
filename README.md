@@ -7,10 +7,10 @@ A collection of basic Android exercises
 3. **Activity Lifecycle** Introduction(https://github.com/DeLaSalleUniversity-Manila/activitylifecycleintroduction-luislerit.git)
 4. **Display Webpage** (https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-luislerit.git)
 5. **Linking Android Activities** (https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-luislerit.git)
-6. **WeekDay App using Date Picker Fragment**
+6. **WeekDay App using Date Picker Fragment** (https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-luislerit.git)
 7. **Stopwatch App** (https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-luislerit.git)
 8. **Email App** - Grid Layout (https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-luislerit.git)
-9. **Text-to-Speech App**
+9. **Text-to-Speech App** (https://github.com/DeLaSalleUniversity-Manila/text2speechdemo-luislerit.git)
 10. **MyMusic App** - Service (https://github.com/DeLaSalleUniversity-Manila/mymusicapp-luislerit.git)
 11. **Splash Activity**
 12. **Menu Activity**

@@ -15,8 +15,8 @@ A collection of basic Android exercises
 11. **Splash Activity**
 12. **Menu Activity**
 13. **Help Activity**
-14. **Green Target**
-15. **Take a Picture**
+14. **Green Target** (https://github.com/DeLaSalleUniversity-Manila/greentarget-luislerit.git)
+15. **Take a Picture**(https://github.com/DeLaSalleUniversity-Manila/takeapicture-luislerit.git)
 16. **Buttons Demo**
 17. **Star Rating**
 18. **Google Map Marker for DLSU**

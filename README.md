@@ -17,11 +17,11 @@ A collection of basic Android exercises
 13. **Help Activity** (https://github.com/DeLaSalleUniversity-Manila/helpactivitydemo-luislerit.git)
 14. **Green Target** (https://github.com/DeLaSalleUniversity-Manila/greentarget-luislerit.git)
 15. **Take a Picture**(https://github.com/DeLaSalleUniversity-Manila/takeapicture-luislerit.git)
-16. **Buttons Demo**
-17. **Star Rating**
-18. **Google Map Marker for DLSU**
-19. **Screen Slides**
-20. **ViewPager with Text-to-Speech Demo**
+16. **Buttons Demo** (https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-luislerit.git)
+17. **Star Rating** (https://github.com/DeLaSalleUniversity-Manila/starratingdemo-luislerit.git)
+18. **Google Map Marker for DLSU** (https://github.com/DeLaSalleUniversity-Manila/googlemapsdemo-luislerit.git)
+19. **Screen Slides** (https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-luislerit.git)
+20. **ViewPager with Text-to-Speech Demo** (https://github.com/DeLaSalleUniversity-Manila/viewpagerwithtexttospeech-luislerit.git)
 21. **Play Video** (https://github.com/DeLaSalleUniversity-Manila/playvideo-luislerit.git)
 22. **SQLiteDatabase** (https://github.com/DeLaSalleUniversity-Manila/sqlitedatabaseexercise-luislerit.git)
 23. **Mini-database with Text file** (https://github.com/DeLaSalleUniversity-Manila/minidatabasewithtextfile-luislerit.git)

@@ -12,8 +12,8 @@ A collection of basic Android exercises
 8. **Email App** - Grid Layout (https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-luislerit.git)
 9. **Text-to-Speech App** (https://github.com/DeLaSalleUniversity-Manila/text2speechdemo-luislerit.git)
 10. **MyMusic App** - Service (https://github.com/DeLaSalleUniversity-Manila/mymusicapp-luislerit.git)
-11. **Splash Activity**
-12. **Menu Activity**
+11. **Splash Activity** (https://github.com/DeLaSalleUniversity-Manila/splashactivitydemo-luislerit.git)
+12. **Menu Activity** (https://github.com/DeLaSalleUniversity-Manila/menuactivitydemo-luislerit.git)
 13. **Help Activity**
 14. **Green Target** (https://github.com/DeLaSalleUniversity-Manila/greentarget-luislerit.git)
 15. **Take a Picture**(https://github.com/DeLaSalleUniversity-Manila/takeapicture-luislerit.git)
@@ -24,10 +24,10 @@ A collection of basic Android exercises
 20. **ViewPager with Text-to-Speech Demo**
 21. **Play Video** (https://github.com/DeLaSalleUniversity-Manila/playvideo-luislerit.git)
 22. **SQLiteDatabase** (https://github.com/DeLaSalleUniversity-Manila/sqlitedatabaseexercise-luislerit.git)
-23. **Mini-database with Text file** 
-24. **Settings Activity**
+23. **Mini-database with Text file** (https://github.com/DeLaSalleUniversity-Manila/minidatabasewithtextfile-luislerit.git)
+24. **Settings Activity**(https://github.com/DeLaSalleUniversity-Manila/settingsactivity-luislerit.git)
 25. **WorkoutFragmentDemo** (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-luislerit.git)
-26. **Grocery App**
+26. **Grocery App**(https://github.com/DeLaSalleUniversity-Manila/groceryapp-luislerit.git)
 27. **Breast Cancer Awareness App** (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-luislerit.git)
 28. **OpenCV 3.0 Camera Preview Example** (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-luislerit.git)
 29. **OpenCV 3.0 15-Tile Camera Puzzle **

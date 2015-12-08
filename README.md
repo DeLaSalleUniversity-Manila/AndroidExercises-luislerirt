@@ -94,7 +94,7 @@ A collection of basic Android exercises
 90. OpenGL ES 3.0 Demo ()
 91. **2048 Game** (https://github.com/DeLaSalleUniversity-Manila/2048-luislerit.git)
 92. **Green Wall Game** (https://github.com/DeLaSalleUniversity-Manila/greenwall-luislerit.git)
-93. Octodroid (https://github.com/DeLaSalleUniversity-Manila/octodroid-luislerit.git)
+93. **Octodroid** (https://github.com/DeLaSalleUniversity-Manila/octodroid-luislerit.git)
 94. **Flappy Bird (Clone)** (https://github.com/DeLaSalleUniversity-Manila/flappydemo-luislerit.git)
 95. **9GAG (Unofficial App)** (https://github.com/DeLaSalleUniversity-Manila/9gagunofficial-luislerit.git)
 96. **MP Android Chart Demo** (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-luislerit.git)

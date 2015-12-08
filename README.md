@@ -30,7 +30,7 @@ A collection of basic Android exercises
 26. **Grocery App**(https://github.com/DeLaSalleUniversity-Manila/groceryapp-luislerit.git)
 27. **Breast Cancer Awareness App** (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-luislerit.git)
 28. **OpenCV 3.0 Camera Preview Example** (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-luislerit.git)
-29. **OpenCV 3.0 15-Tile Camera Puzzle **
+29. **OpenCV 3.0 15-Tile Camera Puzzle**(https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-luislerit.git)
 30. **Image Local Binary Pattern**
 31. **OpenCV 3.0 Mixed-Signal Processing**
 32. **OpenCV 3.0 Face Detection Sample**
@@ -96,7 +96,7 @@ A collection of basic Android exercises
 91. **2048 Game** (https://github.com/DeLaSalleUniversity-Manila/2048-luislerit.git)
 92. **Green Wall Game** (https://github.com/DeLaSalleUniversity-Manila/greenwall-luislerit.git)
 93. Octodroid ()
-94. Flappy Bird (Clone) ()
+94. Flappy Bird (Clone) (https://github.com/DeLaSalleUniversity-Manila/flappydemo-luislerit.git)
 95. 9GAG (Unofficial App) ()
 96. MP Android Chart Demo ()
 97. Puzzle Collection ()

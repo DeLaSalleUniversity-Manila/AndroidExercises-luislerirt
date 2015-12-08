@@ -42,7 +42,6 @@ A collection of basic Android exercises
 38. **Android Camera Bitmap Access through JNI**
 39. **Cat Face Detection**
 40. **QR and Bar Code Reader**
-**END HERE**
 41. OpenCV 3.0 Camera Control ()
 42. OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity) ()
 43. FAST Keypoints ()
@@ -95,15 +94,15 @@ A collection of basic Android exercises
 90. OpenGL ES 3.0 Demo ()
 91. **2048 Game** (https://github.com/DeLaSalleUniversity-Manila/2048-luislerit.git)
 92. **Green Wall Game** (https://github.com/DeLaSalleUniversity-Manila/greenwall-luislerit.git)
-93. Octodroid ()
+93. Octodroid (https://github.com/DeLaSalleUniversity-Manila/octodroid-luislerit.git)
 94. **Flappy Bird (Clone)** (https://github.com/DeLaSalleUniversity-Manila/flappydemo-luislerit.git)
 95. **9GAG (Unofficial App)** (https://github.com/DeLaSalleUniversity-Manila/9gagunofficial-luislerit.git)
 96. **MP Android Chart Demo** (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-luislerit.git)
-97. Puzzle Collection (https://github.com/DeLaSalleUniversity-Manila/puzzlecollection-luislerit.git)
-98. Super Jumper ()
-99. Super Mario (Android Clone) ()
-100. Google's Santa Tracker ()
-101. Forkhub ()
+97. **Puzzle Collection** (https://github.com/DeLaSalleUniversity-Manila/puzzlecollection-luislerit.git)
+98. **Super Jumper** (https://github.com/DeLaSalleUniversity-Manila/superjumper-luislerit.git)
+99. **Super Mario** (Android Clone) (https://github.com/DeLaSalleUniversity-Manila/supermario-luislerit.git)
+100. **Google's Santa Tracker** (https://github.com/DeLaSalleUniversity-Manila/santatracker-luislerit.git)
+101. **Forkhub** (https://github.com/DeLaSalleUniversity-Manila/forkhub-luislerit.git)
 
 
 
